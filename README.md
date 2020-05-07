@@ -1,10 +1,12 @@
 # GeoShape.JS
-Javascript converter from geoJSON to ESRI shapefile
+Javascript converter from geoJSON to ESRI shapefile (Miroslav Janata, mirajanata@volny.cz)
 
 
 # Usage
 1. Download the project files
+
 2. Reference the source javascript files in your web page:
+
 ...
     <script src="js/jszip.js"></script>
     <script src="js/GeoShape.js"></script>
