@@ -9,7 +9,6 @@ Javascript converter from geoJSON to ESRI shapefile (Miroslav Janata, mirajanata
 
 ...
     <script src="js/jszip.js"></script>
-
     <script src="js/GeoShape.js"></script>
 ...
 
@@ -17,7 +16,6 @@ Alternatively you can use more browser compatible version running on MSIE as wel
 
 ...
     <script src="js/jszip.js"></script>
-
     <script src="js/GeoShape_compat.js"></script>
 ...
 
