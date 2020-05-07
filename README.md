@@ -2,7 +2,7 @@
 Javascript converter from geoJSON to ESRI shapefile
 
 
-#Usage
+# Usage
 1. Download the project files
 2. Reference the source javascript files in your web page:
 ...
