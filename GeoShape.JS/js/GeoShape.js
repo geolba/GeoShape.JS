@@ -82,7 +82,7 @@ var GeoShape = {
             var url = window.URL.createObjectURL(blob);
             a.href = url;
             a.download = resultZipFile;
-            a.target = "_blank";
+            a.target = "_self";
             //programatically click the link to trigger the download
             a.click();
             //release the reference to the file by revoking the Object URL
